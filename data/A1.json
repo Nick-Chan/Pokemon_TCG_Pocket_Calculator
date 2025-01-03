@@ -1,0 +1,2004 @@
+﻿[
+  {
+    "CardID": "A1 001",
+    "CardName": "Bulbasaur",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 002",
+    "CardName": "Ivysaur",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 003",
+    "CardName": "Venusaur",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 004",
+    "CardName": "Venusaur ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 005",
+    "CardName": "Caterpie",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 006",
+    "CardName": "Metapod",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 007",
+    "CardName": "Butterfree",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 008",
+    "CardName": "Weedle",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 009",
+    "CardName": "Kakuna",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 010",
+    "CardName": "Beedrill",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 011",
+    "CardName": "Oddish",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 012",
+    "CardName": "Gloom",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 013",
+    "CardName": "Vileplume",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 014",
+    "CardName": "Paras",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 015",
+    "CardName": "Parasect",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 016",
+    "CardName": "Venonat",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 017",
+    "CardName": "Venomoth",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 018",
+    "CardName": "Bellsprout",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 019",
+    "CardName": "Weepinbell",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 020",
+    "CardName": "Victreebel",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 021",
+    "CardName": "Exeggcute",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 022",
+    "CardName": "Exeggutor",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 023",
+    "CardName": "Exeggutor ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 024",
+    "CardName": "Tangela",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 025",
+    "CardName": "Scyther",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 026",
+    "CardName": "Pinsir",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 027",
+    "CardName": "Cottonee",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 028",
+    "CardName": "Whimsicott",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 029",
+    "CardName": "Petilil",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 030",
+    "CardName": "Lilligant",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 031",
+    "CardName": "Skiddo",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 032",
+    "CardName": "Gogoat",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 033",
+    "CardName": "Charmander",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 034",
+    "CardName": "Charmeleon",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 035",
+    "CardName": "Charizard",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 036",
+    "CardName": "Charizard ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 037",
+    "CardName": "Vulpix",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 038",
+    "CardName": "Ninetales",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 039",
+    "CardName": "Growlithe",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 040",
+    "CardName": "Arcanine",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 041",
+    "CardName": "Arcanine ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 042",
+    "CardName": "Ponyta",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 043",
+    "CardName": "Rapidash",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 044",
+    "CardName": "Magmar",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 045",
+    "CardName": "Flareon",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 046",
+    "CardName": "Moltres",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 047",
+    "CardName": "Moltres ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 048",
+    "CardName": "Heatmor",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 049",
+    "CardName": "Salandit",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 050",
+    "CardName": "Salazzle",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 051",
+    "CardName": "Sizzlipede",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 052",
+    "CardName": "Centiskorch",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 053",
+    "CardName": "Squirtle",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 054",
+    "CardName": "Wartortle",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 055",
+    "CardName": "Blastoise",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 056",
+    "CardName": "Blastoise ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 057",
+    "CardName": "Psyduck",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 058",
+    "CardName": "Golduck",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 059",
+    "CardName": "Poliwag",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 060",
+    "CardName": "Poliwhirl",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 061",
+    "CardName": "Poliwrath",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 062",
+    "CardName": "Tentacool",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 063",
+    "CardName": "Tentacruel",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 064",
+    "CardName": "Seel",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 065",
+    "CardName": "Dewgong",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 066",
+    "CardName": "Shellder",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 067",
+    "CardName": "Cloyster",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 068",
+    "CardName": "Krabby",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 069",
+    "CardName": "Kingler",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 070",
+    "CardName": "Horsea",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 071",
+    "CardName": "Seadra",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 072",
+    "CardName": "Goldeen",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 073",
+    "CardName": "Seaking",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 074",
+    "CardName": "Staryu",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 075",
+    "CardName": "Starmie",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 076",
+    "CardName": "Starmie ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 077",
+    "CardName": "Magikarp",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 078",
+    "CardName": "Gyarados",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 079",
+    "CardName": "Lapras",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 080",
+    "CardName": "Vaporeon",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 081",
+    "CardName": "Omanyte",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 082",
+    "CardName": "Omastar",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 083",
+    "CardName": "Articuno",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 084",
+    "CardName": "Articuno ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 085",
+    "CardName": "Ducklett",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 086",
+    "CardName": "Swanna",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 087",
+    "CardName": "Froakie",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 088",
+    "CardName": "Frogadier",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 089",
+    "CardName": "Greninja",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 090",
+    "CardName": "Pyukumuku",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 091",
+    "CardName": "Bruxish",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 092",
+    "CardName": "Snom",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 093",
+    "CardName": "Frosmoth",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 094",
+    "CardName": "Pikachu",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 095",
+    "CardName": "Raichu",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 096",
+    "CardName": "Pikachu ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 097",
+    "CardName": "Magnemite",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 098",
+    "CardName": "Magneton",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 099",
+    "CardName": "Voltorb",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 100",
+    "CardName": "Electrode",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 101",
+    "CardName": "Electabuzz",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 102",
+    "CardName": "Jolteon",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 103",
+    "CardName": "Zapdos",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 104",
+    "CardName": "Zapdos ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 105",
+    "CardName": "Blitzle",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 106",
+    "CardName": "Zebstrika",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 107",
+    "CardName": "Tynamo",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 108",
+    "CardName": "Eelektrik",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 109",
+    "CardName": "Eelektross",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 110",
+    "CardName": "Helioptile",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 111",
+    "CardName": "Heliolisk",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 112",
+    "CardName": "Pincurchin",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 113",
+    "CardName": "Clefairy",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 114",
+    "CardName": "Clefable",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 115",
+    "CardName": "Abra",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 116",
+    "CardName": "Kadabra",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 117",
+    "CardName": "Alakazam",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 118",
+    "CardName": "Slowpoke",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 119",
+    "CardName": "Slowbro",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 120",
+    "CardName": "Gastly",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 121",
+    "CardName": "Haunter",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 122",
+    "CardName": "Gengar",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 123",
+    "CardName": "Gengar ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 124",
+    "CardName": "Drowzee",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 125",
+    "CardName": "Hypno",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 126",
+    "CardName": "Mr. Mime",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 127",
+    "CardName": "Jynx",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 128",
+    "CardName": "Mewtwo",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 129",
+    "CardName": "Mewtwo ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 130",
+    "CardName": "Ralts",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 131",
+    "CardName": "Kirlia",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 132",
+    "CardName": "Gardevoir",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 133",
+    "CardName": "Woobat",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 134",
+    "CardName": "Swoobat",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 135",
+    "CardName": "Golett",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 136",
+    "CardName": "Golurk",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 137",
+    "CardName": "Sandshrew",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 138",
+    "CardName": "Sandslash",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 139",
+    "CardName": "Diglett",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 140",
+    "CardName": "Dugtrio",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 141",
+    "CardName": "Mankey",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 142",
+    "CardName": "Primeape",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 143",
+    "CardName": "Machop",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 144",
+    "CardName": "Machoke",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 145",
+    "CardName": "Machamp",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 146",
+    "CardName": "Machamp ex",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 147",
+    "CardName": "Geodude",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 148",
+    "CardName": "Graveler",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 149",
+    "CardName": "Golem",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 150",
+    "CardName": "Onix",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 151",
+    "CardName": "Cubone",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 152",
+    "CardName": "Marowak",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 153",
+    "CardName": "Marowak ex",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 154",
+    "CardName": "Hitmonlee",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 155",
+    "CardName": "Hitmonchan",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 156",
+    "CardName": "Rhyhorn",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 157",
+    "CardName": "Rhydon",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 158",
+    "CardName": "Kabuto",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 159",
+    "CardName": "Kabutops",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 160",
+    "CardName": "Mienfoo",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 161",
+    "CardName": "Mienshao",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 162",
+    "CardName": "Clobbopus",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 163",
+    "CardName": "Grapploct",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 164",
+    "CardName": "Ekans",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 165",
+    "CardName": "Arbok",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 166",
+    "CardName": "Nidoran♀",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 167",
+    "CardName": "Nidorina",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 168",
+    "CardName": "Nidoqueen",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 169",
+    "CardName": "Nidoran♂",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 170",
+    "CardName": "Nidorino",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 171",
+    "CardName": "Nidoking",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 172",
+    "CardName": "Zubat",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 173",
+    "CardName": "Golbat",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 174",
+    "CardName": "Grimer",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 175",
+    "CardName": "Muk",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 176",
+    "CardName": "Koffing",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 177",
+    "CardName": "Weezing",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 178",
+    "CardName": "Mawile",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 179",
+    "CardName": "Pawniard",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 180",
+    "CardName": "Bisharp",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 181",
+    "CardName": "Meltan",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 182",
+    "CardName": "Melmetal",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 183",
+    "CardName": "Dratini",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 184",
+    "CardName": "Dragonair",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 185",
+    "CardName": "Dragonite",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 186",
+    "CardName": "Pidgey",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 187",
+    "CardName": "Pidgeotto",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 188",
+    "CardName": "Pidgeot",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 189",
+    "CardName": "Rattata",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 190",
+    "CardName": "Raticate",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 191",
+    "CardName": "Spearow",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 192",
+    "CardName": "Fearow",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 193",
+    "CardName": "Jigglypuff",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 194",
+    "CardName": "Wigglytuff",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 195",
+    "CardName": "Wigglytuff ex",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 196",
+    "CardName": "Meowth",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 197",
+    "CardName": "Persian",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 198",
+    "CardName": "Farfetch'd",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 199",
+    "CardName": "Doduo",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 200",
+    "CardName": "Dodrio",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 201",
+    "CardName": "Lickitung",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 202",
+    "CardName": "Chansey",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 203",
+    "CardName": "Kangaskhan",
+    "Pack": "Charizard",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 204",
+    "CardName": "Tauros",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 205",
+    "CardName": "Ditto",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 206",
+    "CardName": "Eevee",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 207",
+    "CardName": "Eevee",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 208",
+    "CardName": "Eevee",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 209",
+    "CardName": "Porygon",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 210",
+    "CardName": "Aerodactyl",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 211",
+    "CardName": "Snorlax",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢♢",
+    "KantoMew": "Yes"
+  },
+  {
+    "CardID": "A1 212",
+    "CardName": "Minccino",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 213",
+    "CardName": "Cinccino",
+    "Pack": "All",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 214",
+    "CardName": "Wooloo",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 215",
+    "CardName": "Dubwool",
+    "Pack": "All",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 216",
+    "CardName": "Helix Fossil",
+    "Pack": "Pikachu",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 217",
+    "CardName": "Dome Fossil",
+    "Pack": "Charizard",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 218",
+    "CardName": "Old Amber",
+    "Pack": "Mewtwo",
+    "Rarity": "♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 219",
+    "CardName": "Erika",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 220",
+    "CardName": "Misty",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 221",
+    "CardName": "Blaine",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 222",
+    "CardName": "Koga",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 223",
+    "CardName": "Giovanni",
+    "Pack": "Mewtwo",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 224",
+    "CardName": "Brock",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 225",
+    "CardName": "Sabrina",
+    "Pack": "Charizard",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 226",
+    "CardName": "Lt. Surge",
+    "Pack": "Pikachu",
+    "Rarity": "♢♢",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 227",
+    "CardName": "Bulbasaur",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 228",
+    "CardName": "Gloom",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 229",
+    "CardName": "Pinsir",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 230",
+    "CardName": "Charmander",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 231",
+    "CardName": "Rapidash",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 232",
+    "CardName": "Squirtle",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 233",
+    "CardName": "Gyarados",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 234",
+    "CardName": "Lapras",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 235",
+    "CardName": "Electrode",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 236",
+    "CardName": "Alakazam",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 237",
+    "CardName": "Slowpoke",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 238",
+    "CardName": "Diglett",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 239",
+    "CardName": "Cubone",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 240",
+    "CardName": "Nidoqueen",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 241",
+    "CardName": "Nidoking",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 242",
+    "CardName": "Golbat",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 243",
+    "CardName": "Weezing",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 244",
+    "CardName": "Dragonite",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 245",
+    "CardName": "Pidgeot",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 246",
+    "CardName": "Meowth",
+    "Pack": "Charizard",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 247",
+    "CardName": "Ditto",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 248",
+    "CardName": "Eevee",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 249",
+    "CardName": "Porygon",
+    "Pack": "Mewtwo",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 250",
+    "CardName": "Snorlax",
+    "Pack": "Pikachu",
+    "Rarity": "☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 251",
+    "CardName": "Venusaur ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 252",
+    "CardName": "Exeggutor ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 253",
+    "CardName": "Charizard ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 254",
+    "CardName": "Arcanine ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 255",
+    "CardName": "Moltres ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 256",
+    "CardName": "Blastoise ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 257",
+    "CardName": "Starmie ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 258",
+    "CardName": "Articuno ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 259",
+    "CardName": "Pikachu ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 260",
+    "CardName": "Zapdos ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 261",
+    "CardName": "Gengar ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 262",
+    "CardName": "Mewtwo ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 263",
+    "CardName": "Machamp ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 264",
+    "CardName": "Marowak ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 265",
+    "CardName": "Wigglytuff ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 266",
+    "CardName": "Erika",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 267",
+    "CardName": "Misty",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 268",
+    "CardName": "Blaine",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 269",
+    "CardName": "Koga",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 270",
+    "CardName": "Giovanni",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 271",
+    "CardName": "Brock",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 272",
+    "CardName": "Sabrina",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 273",
+    "CardName": "Lt. Surge",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 274",
+    "CardName": "Moltres ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 275",
+    "CardName": "Articuno ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 276",
+    "CardName": "Zapdos ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 277",
+    "CardName": "Gengar ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 278",
+    "CardName": "Machamp ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 279",
+    "CardName": "Wigglytuff ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 280",
+    "CardName": "Charizard ex",
+    "Pack": "Charizard",
+    "Rarity": "☆☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 281",
+    "CardName": "Pikachu ex",
+    "Pack": "Pikachu",
+    "Rarity": "☆☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 282",
+    "CardName": "Mewtwo ex",
+    "Pack": "Mewtwo",
+    "Rarity": "☆☆☆",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 283",
+    "CardName": "Mew",
+    "Pack": "Mission",
+    "Rarity": "",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 284",
+    "CardName": "Charizard ex",
+    "Pack": "All",
+    "Rarity": "♛",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 285",
+    "CardName": "Pikachu ex",
+    "Pack": "All",
+    "Rarity": "♛",
+    "KantoMew": "No"
+  },
+  {
+    "CardID": "A1 286",
+    "CardName": "Mewtwo ex",
+    "Pack": "All",
+    "Rarity": "♛",
+    "KantoMew": "No"
+  }
+]

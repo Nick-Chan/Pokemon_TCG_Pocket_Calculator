@@ -1,0 +1,518 @@
+﻿[
+  {
+    "CardID": "A1a 001",
+    "CardName": "Exeggcute",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 002",
+    "CardName": "Exeggutor",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 003",
+    "CardName": "Celebi ex",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇◇"
+  },
+  {
+    "CardID": "A1a 004",
+    "CardName": "Snivy",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 005",
+    "CardName": "Servine",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 006",
+    "CardName": "Serperior",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 007",
+    "CardName": "Morelull",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 008",
+    "CardName": "Shiinotic",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 009",
+    "CardName": "Dhelmise",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 010",
+    "CardName": "Ponyta",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 011",
+    "CardName": "Rapidash",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 012",
+    "CardName": "Magmar",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 013",
+    "CardName": "Larvesta",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 014",
+    "CardName": "Volcarona",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 015",
+    "CardName": "Salandit",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 016",
+    "CardName": "Salazzle",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 017",
+    "CardName": "Magikarp",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 018",
+    "CardName": "Gyarados ex",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇◇"
+  },
+  {
+    "CardID": "A1a 019",
+    "CardName": "Vaporeon",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 020",
+    "CardName": "Finneon",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 021",
+    "CardName": "Lumineon",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 022",
+    "CardName": "Chewtle",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 023",
+    "CardName": "Drednaw",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 024",
+    "CardName": "Cramorant",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 025",
+    "CardName": "Pikachu",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 026",
+    "CardName": "Raichu",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 027",
+    "CardName": "Electabuzz",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 028",
+    "CardName": "Joltik",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 029",
+    "CardName": "Galvantula",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 030",
+    "CardName": "Dedenne",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 031",
+    "CardName": "Mew",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 032",
+    "CardName": "Mew ex",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇◇"
+  },
+  {
+    "CardID": "A1a 033",
+    "CardName": "Sigilyph",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 034",
+    "CardName": "Elgyem",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 035",
+    "CardName": "Beheeyem",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 036",
+    "CardName": "Flabebe",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 037",
+    "CardName": "Floette",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 038",
+    "CardName": "Florges",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 039",
+    "CardName": "Swirlix",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 040",
+    "CardName": "Slurpuff",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 041",
+    "CardName": "Mankey",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 042",
+    "CardName": "Primeape",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 043",
+    "CardName": "Geodude",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 044",
+    "CardName": "Graveler",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 045",
+    "CardName": "Golem",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 046",
+    "CardName": "Aerodactyl ex",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇◇"
+  },
+  {
+    "CardID": "A1a 047",
+    "CardName": "Marshadow",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 048",
+    "CardName": "Stonjourner",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 049",
+    "CardName": "Koffing",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 050",
+    "CardName": "Weezing",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 051",
+    "CardName": "Purrloin",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 052",
+    "CardName": "Liepard",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 053",
+    "CardName": "Venipede",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 054",
+    "CardName": "Whirlipede",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 055",
+    "CardName": "Scolipede",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 056",
+    "CardName": "Druddigon",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 057",
+    "CardName": "Pidgey",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 058",
+    "CardName": "Pidgeotto",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 059",
+    "CardName": "Pidgeot ex",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇◇"
+  },
+  {
+    "CardID": "A1a 060",
+    "CardName": "Tauros",
+    "Pack": "Mew",
+    "Rarity": "◇◇◇"
+  },
+  {
+    "CardID": "A1a 061",
+    "CardName": "Eevee",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 062",
+    "CardName": "Chatot",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 063",
+    "CardName": "Old Amber",
+    "Pack": "Mew",
+    "Rarity": "◇"
+  },
+  {
+    "CardID": "A1a 064",
+    "CardName": "Pokemon Flute",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 065",
+    "CardName": "Mythical Slab",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 066",
+    "CardName": "Budding Expeditioner",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 067",
+    "CardName": "Blue",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 068",
+    "CardName": "Leaf",
+    "Pack": "Mew",
+    "Rarity": "◇◇"
+  },
+  {
+    "CardID": "A1a 069",
+    "CardName": "Exeggutor",
+    "Pack": "Mew",
+    "Rarity": "☆"
+  },
+  {
+    "CardID": "A1a 070",
+    "CardName": "Serperior",
+    "Pack": "Mew",
+    "Rarity": "☆"
+  },
+  {
+    "CardID": "A1a 071",
+    "CardName": "Salandit",
+    "Pack": "Mew",
+    "Rarity": "☆"
+  },
+  {
+    "CardID": "A1a 072",
+    "CardName": "Vaporeon",
+    "Pack": "Mew",
+    "Rarity": "☆"
+  },
+  {
+    "CardID": "A1a 073",
+    "CardName": "Dedenne",
+    "Pack": "Mew",
+    "Rarity": "☆"
+  },
+  {
+    "CardID": "A1a 074",
+    "CardName": "Marshadow",
+    "Pack": "Mew",
+    "Rarity": "☆"
+  },
+  {
+    "CardID": "A1a 075",
+    "CardName": "Celebi ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 076",
+    "CardName": "Gyarados ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 077",
+    "CardName": "Mew ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 078",
+    "CardName": "Aerodactyl ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 079",
+    "CardName": "Pidgeot ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 080",
+    "CardName": "Budding Expeditioner",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 081",
+    "CardName": "Blue",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 082",
+    "CardName": "Leaf",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 083",
+    "CardName": "Mew ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 084",
+    "CardName": "Aerodactyl ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆"
+  },
+  {
+    "CardID": "A1a 085",
+    "CardName": "Celebi ex",
+    "Pack": "Mew",
+    "Rarity": "☆☆☆"
+  },
+  {
+    "CardID": "A1a 086",
+    "CardName": "Mew ex",
+    "Pack": "Mew",
+    "Rarity": "♛"
+  }
+]
