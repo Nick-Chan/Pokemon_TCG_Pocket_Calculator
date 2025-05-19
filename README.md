@@ -9,6 +9,8 @@ Current expansions updated for are:
 
 To be implemented:
 - Triumphant Light (A2a)
+- Shining Revelry (A2b)
+- Celestial Guardians (A3)
 
 ---
 
