@@ -11,6 +11,9 @@ To be implemented:
 - Triumphant Light (A2a)
 - Shining Revelry (A2b)
 - Celestial Guardians (A3)
+- Extradimensional Crisis (A3a)
+- Eevee Grove (A3b)
+- Wisdom of Sea and Sky (A4)
 
 ---
 
